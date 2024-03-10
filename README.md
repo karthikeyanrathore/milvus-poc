@@ -1,5 +1,3 @@
-# milvus-poc
-
 ## How to run poc?
 steps
 
